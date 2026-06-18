@@ -12,6 +12,8 @@ CALBOT is a simple C-based interactive agent that helps users solve basic mathem
 * Subtraction
 * Multiplication
 * Division
+* areas of basic shapes
+* perimeters of basic shapes
 * Other basic mathematical operations (if implemented)
 
 ## Requirements
